@@ -82,6 +82,11 @@ body {
   background-size: cover;
  
 }
+.Zero {
+  height: 100%;
+  background-color: #000000;
+  background-image: url(../images/qe.png);
+  background-size: cover;
 .M {
   height: 100%;
   background-color: #000000;
